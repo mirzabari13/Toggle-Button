@@ -1,0 +1,35 @@
+#toggle {
+    height: 15px;
+    width: 60px;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+#centre {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+#circle {
+    height: 100%;
+    width: 25%;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    left: 0%;
+}
+
+#heading{
+    color: black;
+    text-align: center;
+    margin-top: 3%;
+}
+/* h1{
+    text-align: center;
+} */
+
+body {
+    background-color: white;
+}
